@@ -1,4 +1,4 @@
 # Regressão Linear
 
-Código feito para realizar calculos de Regressão linear e
+Código feito para realizar cálculos de Regressão linear e
 Coeficiente de correlação de Pearson.
